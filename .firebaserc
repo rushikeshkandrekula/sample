@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ecommercesite-5558d": {
+      "hosting": {
+        "Ecommercesite": [
+          "ecommercesite-5558d"
+        ]
+      }
+    }
+  }
+}
